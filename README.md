@@ -7,11 +7,11 @@
 
 ### CFG за searchBookByTitle
 
-![Control Flow Graph за searchBookByTitle](1.png)
+![Control Flow Graph за searchBookByTitle](222.jpg)
 
 ### CFG за borrowBook
 
-![Control Flow Graph за borrowBook](2.png)
+![Control Flow Graph за borrowBook](111.jpg)
 
 ---
 
