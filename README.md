@@ -11,7 +11,7 @@
 
 ### CFG за borrowBook
 
-![Control Flow Graph за borrowBook](111.jpg) 
+![Control Flow Graph за borrowBook](1.png) 
 
 ---
 
